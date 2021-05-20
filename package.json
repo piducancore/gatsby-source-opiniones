@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-source-opiniones",
+  "description": "Este plugin transforma en nodos de Gatsby todas las opiniones recibidas por un tutor del sitio tusclasesparticulares.cl.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "@piducancore",
+  "homepage": "https://github.com/piducancore/gatsby-source-opiniones#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piducancore/gatsby-source-opiniones.git"
+  },
+  "bugs": {
+    "url": "https://github.com/piducancore/gatsby-source-opiniones/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^16.5.3"
+  }
+}
